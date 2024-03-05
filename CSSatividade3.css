@@ -1,0 +1,9 @@
+.A {background-color: #0012d7; height: 500px;  width: 500px;}
+
+ .filha_da_div_a {background-color: #ebe422; height: 250px; width: 250px;}
+ 
+ .filha_da_div_b {color: white; background-color: #FF0000;font-size: 25px; font-style: oblique; font-family: Arial, sans-serif ;}
+
+ .div_D {width: 50%; height: 50vh; background-color: rgb(109, 8, 217);}
+
+ .filha_da_div_d {width: 75vw; height: 50%; background-color: rgb(255, 234, 76);}
